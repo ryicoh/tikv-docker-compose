@@ -15,7 +15,7 @@ TiDB docker-compose, but without all of the DB parts.  Specifically, I have remo
 
 ```bash
 $ git clone https://github.com/wwwesleyyy/tikv-docker-compose.git
-$ cd tidb-docker-compose && docker-compose pull
+$ cd tikv-docker-compose && docker-compose pull
 $ docker-compose up -d
 ```
 
